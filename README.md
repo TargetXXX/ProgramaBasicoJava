@@ -59,9 +59,9 @@ Para iniciar o programa principal, execute a classe ProgramaPrincipal na IDE Jav
 
 Se você deseja contribuir ou melhorar algum dos programas, fique à vontade para criar um fork deste repositório, fazer as alterações necessárias e enviar um pull request.
 
-Esperamos que esses programas sejam úteis para quem deseja aprender ou ensinar conceitos básicos de programação Java. Sinta-se à vontade para usá-los como referência ou construir sobre eles.
+Espero que esses programas sejam úteis para quem deseja aprender ou ensinar conceitos básicos de programação Java. Sinta-se à vontade para usá-los como referência ou construir sobre eles.
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+Este projeto foi desenvolvido por Eduardo Oliveira. Para mais informações ou suporte, entre em contato através do número de WhatsApp: +55 (44) 998549700.
 
